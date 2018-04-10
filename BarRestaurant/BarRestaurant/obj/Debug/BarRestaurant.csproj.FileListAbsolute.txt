@@ -1,0 +1,12 @@
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\bin\Debug\BarRestaurant.exe.config
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\bin\Debug\BarRestaurant.exe
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\bin\Debug\BarRestaurant.pdb
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.csprojResolveAssemblyReference.cache
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.Properties.Resources.resources
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.csproj.GenerateResource.Cache
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.exe
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.pdb
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.Form3.resources
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.LoginC1.resources
+C:\Users\olger.bano\Desktop\temaBD\BarRestaurant\BarRestaurant\obj\Debug\BarRestaurant.Initial.resources

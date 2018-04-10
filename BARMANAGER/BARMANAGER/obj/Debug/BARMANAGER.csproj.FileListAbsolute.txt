@@ -1,0 +1,10 @@
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.csprojResolveAssemblyReference.cache
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.Form1.resources
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.Properties.Resources.resources
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.csproj.GenerateResource.Cache
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.csproj.CoreCompileInputs.cache
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\bin\Debug\BARMANAGER.exe.config
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\bin\Debug\BARMANAGER.exe
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\bin\Debug\BARMANAGER.pdb
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.exe
+C:\Users\olger.bano\Desktop\temaBD\BARMANAGER\BARMANAGER\obj\Debug\BARMANAGER.pdb
